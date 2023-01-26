@@ -1,3 +1,6 @@
+// SPDX-License-Identifier: MIT
+// Created by Mohammadsepehr (Sepehr) Karimiziarani
+// Portfolio: http://sepehr.people.ua.edu/portfolio
 pragma solidity ^0.8.0;
 
 // Custom ERC20 token
